@@ -7,16 +7,4 @@
 
 body{
 background-color: var(--cor-de-fundo);
-color:var(--brancoprincipal)
-}
-
-{
-margin:0;
-padding:0;
-}
-
-.principal{
-background-image: url("img/Background.png");
-.container{ 
-    
 }
